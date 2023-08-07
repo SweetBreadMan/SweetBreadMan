@@ -10,7 +10,8 @@
 
 ## 📖 Studying...
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-## 
+
+## 📊 Status 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetBreadMan&layout=compact&theme=tokyonight)
 
 ## 🔗 Links
