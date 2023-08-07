@@ -14,4 +14,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetBreadMan&layout=compact&theme=tokyonight)
 
 ## 🔗 Links
-<imflower.tistory.com>{: target="_blank"}
+[개인 포트폴리오 사이트](https://suntyru.cafe24.com/)
