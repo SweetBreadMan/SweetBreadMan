@@ -14,4 +14,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetBreadMan&layout=compact&theme=tokyonight)
 
 ## 🔗 Links
+<a href="https://github.com/SweetBreadMan"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a><br>
 [개인 포트폴리오 사이트](https://suntyru.cafe24.com/)
